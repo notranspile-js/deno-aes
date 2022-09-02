@@ -18,5 +18,5 @@
 export * as hex from "https://deno.land/std@0.110.0/encoding/hex.ts";
 
 // @ts-ignore extension
-import bufferToBinaryString from "https://deno.land/x/notranspile_utils@1.0.0/bufferToBinaryString.ts";
+import bufferToBinaryString from "https://deno.land/x/notranspile_utils@1.0.1/bufferToBinaryString.ts";
 export { bufferToBinaryString }; 
